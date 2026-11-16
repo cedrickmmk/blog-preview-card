@@ -23,11 +23,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size (mobile and desktop).
 - See interactive `:hover`, `:focus`, and `:focus-visible` states on the card title link.
 
-### Screenshot
-
-![Blog Preview Card Screenshot](./preview.jpg)
-*(Tip: Replace `./preview.jpg` with a screenshot of your own rendered project if required!)*
-
 ### Links
 
 ## My process
@@ -77,4 +72,3 @@ Using the Figma designs gave me an exact visual blueprint before writing any cod
 Matching small visual details—such as the solid offset box-shadow: 8px 8px hsl(0, 0%, 7%), exact border-radius (20px on the card, 10px on the image), and :hover/:focus-visible color transitions—required careful tweaking. Adjusting max-width (384px down to 327px) and font sizes inside a max-width: 400px media query so the card stayed responsive across mobile and desktop screens was also a key challenge.
 ### How can the feedback and community resources on Frontend Mentor help you improve as a developer?
 Community feedback helps catch improvements that aren't obvious visually—such as using relative units (rem) instead of px for accessibility, keeping visible keyboard focus indicators, and writing cleaner CSS. Reviewing how other developers structured their solutions also introduces better patterns for future projects.
-
